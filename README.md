@@ -6,7 +6,7 @@
 <font color="7C5A66"><p align="center">на першому курci</p>
 <font color="7C5A66"><p align="justify"> спеціальності 072 «Фінанси, банківська справа, страхування та фондовий ринок»</p>
 
-<hr width="100%"size="7"> <br>
+<hr> <br>
 
 <font color="red" face="Arial"><i>Моє хобі:</i><br>
 
@@ -21,5 +21,5 @@
 
 <a href="https://moyaosvita.com.ua/geografija/chorne-more-polozhennya-xarakteristika-ta-cikavi-fakti/">Чорне море — положення, характеристика та цікаві факти</a>
 
-<hr width="100%"size="7"> <br>
+<hr> <br>
 <marquee bgcolor="pink" height=40>Дякую за увагу</marquee>
